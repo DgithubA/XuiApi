@@ -33,4 +33,4 @@ var_dump($xui->getInbounds());
 ```
 
 ## Example
-[view Example](https://github.com/DgithubA/XuiApi/tree/main/Examples)
+[view Example](https://github.com/DgithubA/XuiApi/tree/master/Examples)
