@@ -1,0 +1,20 @@
+{
+    "name": "dgithuba/XuiApi",
+    "description": "api for x-ui panel",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "XuiApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dgithuba",
+            "email":"bibaks34@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">= 8.2",
+        "ext-curl": "*"
+    }
+}
